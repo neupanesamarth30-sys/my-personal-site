@@ -1,0 +1,61 @@
+#container{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    border: 5px solid black;
+    height: 100px;
+
+    flex-direction: space-evenly;
+}
+
+
+#home{
+    text-decoration:none;
+    color:rgb(255, 0, 0);
+    font-size: 50px;
+    font-style: bold;
+}
+
+#about{
+    text-decoration:none;
+    color:rgb(255, 0, 0);
+    font-size: 50px;
+    font-style: bold;
+}
+
+#hobbies{
+    text-decoration:none;
+    color:rgb(255, 0, 0);
+    font-size: 50px;
+    font-style: bold;
+
+}
+
+#project{
+    text-decoration:none;
+    color:rgb(255, 17, 0);
+    font-size: 50px;
+    font-style: bold;
+}
+
+div#container{ 
+    display:flex;
+    flex-direction: space-evenly;
+    background-color:purple;
+    
+}
+
+img{
+    width: 15%;
+    height: 15%;
+}
+
+#me{
+    
+    border: 5px solid black;
+    
+}
+
+body{
+    background-color:rgb(211, 44, 122);
+}
